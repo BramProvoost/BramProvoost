@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bram Provoost
 - 👀 I’m interested in A.I. robotics and industrial automation
-- 🌱 I’m currently learning C, Python and Flutter
+- 🌱 I’m currently learning C, C++, Python and Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: bramprovoost@gmail.com
 
